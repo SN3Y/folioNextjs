@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Apis management",
+        "link":"https://ip-address-tracker-one-gilt.vercel.app/",
+        "img": "ipFinder.png",
+        "skills":"EJS-NODE-TAILWINDCSS-JS",
+        "description": "This project use two separate APIs to create an IP Addres Tracking app"
+    },
+    {
+        "id": 2,
+        "title": "Arrays managment",
+        "link": "https://job-listing-rust-nine.vercel.app/",
+        "img": "Job-Listing-Filter.png",
+        "skills":"HTML-TAILWINDCSS-JS",
+        "description": "This project shows the use of filter in an object to show selected data"
+    },
+    {
+        "id": 3,
+        "title": "JSON management",
+        "link": "https://notifications-page-inky.vercel.app/",
+        "img": "Notifications-page.png",
+        "skills":"HTML-TAILWINDCSS-JS",
+        "description":"This project compiles a conditional code to show the current number of notifications"
+    },
+    {
+        "id": 4,
+        "title": "JS Functions & Code",
+        "link": "https://age-calculator-app-swart-omega.vercel.app/",
+        "img": "age-calculator.png",
+        "skills":"HTML-CSS-JS",
+        "description":"Vanilla Project that shows a conditional code to build an Age calculator app, handle input errors and show Error messages by DOM manipulation"
+    },
+    {
+        "id": 5,
+        "title": "JS Data Validation",
+        "link": "https://subscrition-form.vercel.app/",
+        "img": "sub-form.png",
+        "skills":"HTML-TAILWINDCSS-JS",
+        "description":"Project that displays an email validation by using JS"
+    },
+    {
+        "id": 6,
+        "title": "Accordion Component",
+        "link": "https://faq-accordion-gamma-inky.vercel.app/",
+        "img": "accordion.png",
+        "skills":"HTML-TAILWINDCSS-JS",
+        "description":"Accordion Component created whith Tailwind"
+    }
+]
